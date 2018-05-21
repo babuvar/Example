@@ -1,0 +1,48 @@
+***********************************************************************************
+***********************************************************************************
+Codes:	Bas(1)	Var(2)	Pra(3)	Nil(4)	
+Format:	Bas		Var		Pra		Nil		Code of person		Eff. Tax %
+										  who paid
+***********************************************************************************
+***********************************************************************************
+
+
+
+
+Comments are allowed
+Example1: 
+Let's say we eat at an expensive place and Bas, Var Pra and Nil eat for Rs.500,
+Rs. 450		Rs.620		and Rs. 220 respectively, and Pra (code-3) pays for it.
+Below is the important line used for calculating net deficit/excess per person,
+and should be entered correctly. Everything else (comments, etc.) is optional,
+but encouraged.
+
+Oct 5th 2011, Taj Hotel
+
+@#$		500		450		620		220			3					16
+
+***********************************************************************************
+Example2: 
+Nov 3rd 2013, Bombay Hotel
+
+@#$		150		90		135		65			1					12
+
+***********************************************************************************
+Example3: 
+Jan 15th 2016, Deluxe Hotel
+
+@#$		230		180		330		105			4					4
+
+***********************************************************************************
+
+Example3: 
+June 21st 2016, Deluxe Hotel
+
+@#$		330		480		630		505			2					0
+
+***********************************************************************************
+
+
+
+
+
